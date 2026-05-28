@@ -1,0 +1,8 @@
+{
+  "name": "xflow-sync",
+  "version": "1.0.0",
+  "main": "xflow-get.js",
+  "scripts": {
+    "start": "node xflow-get.js"
+  }
+}
